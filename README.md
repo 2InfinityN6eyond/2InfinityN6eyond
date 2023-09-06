@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## [My Mind Map](https://2infinityn6eyond.github.io/quartz/)
+
+## [My CV]()
+
 <!--
 **2InfinityN6eyond/2InfinityN6eyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
